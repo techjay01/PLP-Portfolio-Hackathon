@@ -91,19 +91,24 @@ header {
 
 .cta {
     display: inline-block;
-    background: var(--primary);
+    background: linear-gradient(90deg, var(--secondary), var(--primary));
     color: #fff;
-    padding: 0.7rem 1.5rem;
+    padding: 0.9rem 2rem;
     border-radius: 2rem;
-    font-size: 1.1rem;
+    font-size: 1.2rem;
     font-weight: bold;
     text-decoration: none;
-    box-shadow: 0 2px 8px #4f8cff22;
-    transition: background 0.2s, transform 0.2s;
+    box-shadow: 0 4px 16px #4f8cff44;
+    transition: background 0.2s, transform 0.2s, box-shadow 0.2s;
+    border: 2px solid var(--primary);
+    letter-spacing: 1px;
+    margin-top: 1rem;
 }
 .cta:hover {
-    background: var(--secondary);
+    background: linear-gradient(90deg, var(--primary), var(--secondary));
     color: #22223b;
+    transform: scale(1.05);
+    box-shadow: 0 6px 24px #ffb34766;
 }
 
 nav ul {
