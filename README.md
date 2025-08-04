@@ -1,22 +1,34 @@
 # Mbamara Joshua's Portfolio Website
 
-Welcome to my personal portfolio! This site was crafted with creativity, color, and care for the PLP Academy Hackathon. My nickname is <Jay~Tech/>, and you'll see it featured throughout the site.
+Welcome to my personal portfolio! Crafted with creativity, color, and care for the PLP Academy Hackathon. My nickname is <Jay~Tech/>, and you'll spot it throughout the site.
 
 ## 🚀 Features
-- Distinct header with my nickname and navigation.
-- Playful, professional, and responsive design.
+- Distinct header with my nickname and navigation bar
+- Hero section with profile image and tagline
+- Playful, professional, and fully responsive design
 - Programming Languages section with colorful badges
-- About Me section.
-- Educational Background with downloadable CV.
-- Interests section.
-- Projects section.
+- About Me section
+- Educational Background with downloadable CV (PDF)
+- Interests section
+- Projects section with interactive project buttons
 - Contact form (mailto:techjay2023@gmail.com)
-- Social icons for Twitter and more
+- Social icons for Mail, LinkedIn, GitHub, Twitter, and Facebook (PNG images)
+- Modern cards, gradients, and creative UI touches
 
-## How to Use
-1. Open `Projects/Portfolio/index.html` in your browser.
-2. Navigate and Inspect.
+## 🌐 See It Live!
 
+Step into my world of code and creativity—no setup required!  
+Check out the live portfolio, deployed with ❤️ on GitHub Pages:
+
+👉 [https://techjay01.github.io/PLP-Portfolio-Hackathon/]
+
+Browse, explore, and get inspired—my work is just a click away!
+
+## 🛠️ Usage
+
+1. Open `index.html` in your browser to view locally.
+2. Use the navigation bar to explore all sections.
+3. Download my CV, try the contact form, and check out the project buttons.
 
 ---
 
