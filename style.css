@@ -50,6 +50,8 @@ header {
     padding: 0 0 1rem 0;
     text-align: center;
     position: relative;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
     z-index: 2;
 }
 
@@ -333,6 +335,10 @@ footer {
     background: var(--primary);
     color: #fff;
     margin-top: 2rem;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    border-radius: 1rem;
+    margin-bottom: 0.5rem;
     border-radius: 1rem 1rem 0 0;
 }
 
