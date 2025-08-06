@@ -25,17 +25,19 @@ This site blends playful gradients, modern cards, and a clean layout inspired by
 ## 🌐 See It Live!
 
 Step into my world of code and creativity—no setup required!  
-Check out the live portfolio, deployed with ❤️ on GitHub Pages:
+Check out the live portfolio, now deployed with ❤️ on Vercel:
 
-👉 [https://techjay01.github.io/PLP-Portfolio-Hackathon/](https://techjay01.github.io/PLP-Portfolio-Hackathon/)
+👉 [https://jaytech-portfolio.vercel.app](https://jaytech-portfolio.vercel.app)
 
 Browse, explore, and get inspired—my work is just a click away!
 
 ## 🛠️ Usage
 
-1. Open `index.html` in your browser to view locally.
-2. Use the navigation bar to explore all sections.
-3. Download my CV, try the contact form, and check out the project buttons.
+1. Open `index.html` in your browser to view the site locally.
+2. Use the navigation bar to explore sections like About, Projects, and Contact.
+3. Download my CV from the Education section.
+4. Try the contact form to send me a message.
+5. Click the project buttons to learn more about my work.
 
 ## 📄 License
 This project is open source for learning and inspiration. Feel free to fork, share, or adapt with credit.
