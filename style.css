@@ -48,15 +48,17 @@ p {
 }
 
 header {
-    background: radial-gradient(circle at 10% 10%, #ffb34733 0%, transparent 40%),
-                radial-gradient(circle at 90% 30%, #4f8cff22 0%, transparent 50%),
-                radial-gradient(circle at 80% 80%, #ff5e5e22 0%, transparent 50%);
-    z-index: 1;
+    background: radial-gradient(circle at 10% 10%, #ffb34733 0%, transparent 50%),
+                radial-gradient(circle at 90% 30%, #4f8cff22 0%, transparent 60%),
+                radial-gradient(circle at 80% 80%, #ff5e5e22 0%, transparent 60%);
+    z-index: 5;
     padding: 1rem 1rem;
+    border-bottom: 2px solid #ffffffd9;
     position: fixed;
     top: 0;
     right: 0;
     left: 0;
+    backdrop-filter: blur(10px);
 }
 
 .business-logo {
